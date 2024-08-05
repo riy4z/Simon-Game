@@ -2,10 +2,6 @@
 
 A classic Simon game created for fun and to try out jQuery. Test your memory skills and challenge yourself to remember the color sequence!
 
-## Demo
-
-[View Live Demo](#)  <!-- Replace with your live demo link -->
-
 ## Features
 
 - Random color sequence generation
@@ -16,12 +12,12 @@ A classic Simon game created for fun and to try out jQuery. Test your memory ski
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/simon-game.git
+    git clone https://github.com/riy4z/Simon-Game.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd simon-game
+    cd Simon-Game
     ```
 
 3. Open `index.html` in your web browser to start playing.
@@ -36,9 +32,6 @@ A classic Simon game created for fun and to try out jQuery. Test your memory ski
 
 Feel free to submit issues or pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
